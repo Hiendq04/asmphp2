@@ -1,0 +1,11 @@
+{
+    "name": "dqhie/asm1",
+    "autoload": {
+        "psr-4": {
+            "Dqhie\\Asm1\\": "App/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
